@@ -17,7 +17,7 @@ Full-stack **TypeScript** developer in Ho Chi Minh City. I build business web ap
 
 | Project | What it is | Stack |
 |---|---|---|
-| FaceID Attendance System | Graduation thesis — face check-in with liveness detection, shifts, requests, salary and reports | NestJS · MongoDB · React · Python |
+| [FaceID Attendance System](https://github.com/NguyenTatHien/faceid-attendance) | Graduation thesis — face check-in with liveness detection, shifts, requests, salary and reports | NestJS · MongoDB · React · Python |
 | [@tathienbadao/poc-skills](https://www.npmjs.com/package/@tathienbadao/poc-skills) | AI-agent skills (Claude Code, Codex, Gemini) that turn a 6-step PoC workflow into one `npx` install | Node.js · Markdown skills |
 | [aegis-mlops](https://github.com/NguyenTatHien/aegis-mlops) | News classification + out-of-domain detection served behind one API, with monitoring | Python · Docker · Grafana |
 
